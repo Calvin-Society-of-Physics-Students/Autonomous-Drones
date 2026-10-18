@@ -5,8 +5,8 @@ We envision a student-built autonomous drone that flies campus at night and maps
 
 ---
 ### Resources
-- <a href="https://mavsdk.mavlink.io">Docs</a>.
-- <a href="https://github.com/mavlink/MAVSDK-Python">Docs Python version</a>. 
+- <a href="https://mavsdk.mavlink.io">MAVSDK docs</a>.
+- <a href="https://github.com/mavlink/MAVSDK-Python">MAVSDK docs Python version</a>. 
 
 ---
 ### Equipment
