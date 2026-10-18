@@ -15,3 +15,6 @@ Attaching a LiDAR module to a drone to study reflectivity as a function of surfa
 ---
 
 #### SDK 
+
+#### Contacts
+- Nathan Harkema: _mobile_: 5722994422; _email_: nharkema@fibertek.com
